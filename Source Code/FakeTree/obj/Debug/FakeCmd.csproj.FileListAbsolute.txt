@@ -1,0 +1,8 @@
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\bin\Debug\FakeCmd.exe.config
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\bin\Debug\FakeCmd.exe
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\bin\Debug\FakeCmd.pdb
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\bin\Debug\Colorful.Console.dll
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\bin\Debug\Colorful.Console.xml
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\obj\Debug\FakeCmd.csprojResolveAssemblyReference.cache
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\obj\Debug\FakeCmd.exe
+c:\users\kake\documents\visual studio 2015\Projects\Anti-Scammer\FakeCmd\obj\Debug\FakeCmd.pdb

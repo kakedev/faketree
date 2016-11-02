@@ -1,0 +1,3 @@
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\bin\Debug\FakeCmd.exe.config
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\obj\Debug\FakeCmd.exe
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\obj\Debug\FakeCmd.pdb

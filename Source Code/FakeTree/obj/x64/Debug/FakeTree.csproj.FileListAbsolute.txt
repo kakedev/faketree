@@ -1,0 +1,7 @@
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\bin\x64\Debug\FakeCmd.exe.config
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\bin\x64\Debug\FakeCmd.exe
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\bin\x64\Debug\FakeCmd.pdb
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\bin\x64\Debug\Colorful.Console.dll
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\bin\x64\Debug\Colorful.Console.xml
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\obj\x64\Debug\FakeCmd.exe
+C:\Users\Kake\Documents\Visual Studio 2015\Projects\Anti-Scammer\FakeTree\obj\x64\Debug\FakeCmd.pdb
